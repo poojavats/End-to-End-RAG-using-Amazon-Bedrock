@@ -12,6 +12,9 @@
 
 # 3. Install the requirement package
 
+# 4. run your application
+streamlit run main.py
+
 # RAG Architecure
 PDF Documents->Extract Data -> Chunking -> Embedding Model-> Convert Text to vector Embedding -> Knowledgebase:
 (Store in vector database)
